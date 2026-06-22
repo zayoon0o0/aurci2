@@ -20,7 +20,7 @@ jobs:
       uses: kopp/build-aur-packages@v1
       with:
         packages: >
-          freesmlauncher
+          wlcontrol-git
           
 
     - name: List generated Files
