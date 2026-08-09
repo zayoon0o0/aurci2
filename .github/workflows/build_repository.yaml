@@ -21,6 +21,7 @@ jobs:
       with:
         packages: >
           paru
+          wlcontrol-git
           
 
     - name: List generated Files
